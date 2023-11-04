@@ -1,0 +1,10 @@
+program start for
+windows xp
+windows 7 
+windows vista
+windows 8
+windows 8.1
+windows 10
+windows 11
+
+and for linux need pre-Release 1.0 linux
