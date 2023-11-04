@@ -7,4 +7,6 @@ windows 8.1
 windows 10
 windows 11
 
+code for register key (2023key7710)
+
 and for linux need pre-Release 1.0 linux
